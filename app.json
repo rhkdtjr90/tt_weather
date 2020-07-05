@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "get Location, get Weather",
+    "githubUrl": "https://github.com/rhkdtjr90/tt_weather"
   }
 }
